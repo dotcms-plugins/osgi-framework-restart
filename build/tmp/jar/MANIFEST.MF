@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-Description: dotCMS - OSGI Restart
+Bundle-Activator: com.dotmarketing.osgi.restart.Activator
+Bundle-Vendor: dotCMS
+Bundle-DocURL: https://dotcms.com/
+Import-Package: *;version=0
+
